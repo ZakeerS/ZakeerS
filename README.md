@@ -1,4 +1,5 @@
-![](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F9022929-Data-science&psig=AOvVaw3TzA3V3eBueFUOudWtnfA6&ust=1691427185388000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDbiLW_yIADFQAAAAAdAAAAABA8)
+![image_processing20191213-6403-1j99nlm](https://github.com/ZakeerS/Quantium-Certification/assets/135118498/dfa92a96-e30f-4f83-a737-694976c491d2)
+
 
 
 
