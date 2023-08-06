@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="https://github.com/ZakeerS/ATS/assets/135118498/3e696fa9-1307-4914-88e2-4c4c96f29713" alt="Image">
-</p>
-
+<div style="text-align: center;">
+    <img src="https://github.com/ZakeerS/ATS/assets/135118498/3e696fa9-1307-4914-88e2-4c4c96f29713" alt="Image">
+</div>
 
 
 
