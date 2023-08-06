@@ -1,21 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Center Image</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
+<p align="center">
+  <img src="https://github.com/ZakeerS/ATS/assets/135118498/3e696fa9-1307-4914-88e2-4c4c96f29713" alt="Image">
+</p>
 
-</head>
-<body>
-    <img src="https://github.com/ZakeerS/ATS/assets/135118498/3e696fa9-1307-4914-88e2-4c4c96f29713" alt="Image">
-</body>
-</html>
 
 
 
