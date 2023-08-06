@@ -1,6 +1,21 @@
-![3eee0b_4c0b4d2c5e9d4c5f84473048443b358b~mv2](https://github.com/ZakeerS/ATS/assets/135118498/3e696fa9-1307-4914-88e2-4c4c96f29713)
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Center Image</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
 
-
+</head>
+<body>
+    <img src="https://github.com/ZakeerS/ATS/assets/135118498/3e696fa9-1307-4914-88e2-4c4c96f29713" alt="Image">
+</body>
+</html>
 
 
 
