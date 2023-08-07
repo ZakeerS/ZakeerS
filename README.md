@@ -1,4 +1,6 @@
-![68747470733a2f2f6765746c656f6e2e61692f696d672f6865726f2d616e696d6174696f6e2e676966](https://github.com/ZakeerS/ATS/assets/135118498/d5038248-27e6-428d-9a25-ba94272f3110)
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://github.com/ZakeerS/ATS/assets/135118498/d5038248-27e6-428d-9a25-ba94272f3110" alt="Centered Image" />
+</div>
 
 
 
