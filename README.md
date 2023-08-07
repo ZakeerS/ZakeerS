@@ -1,6 +1,5 @@
-<div style="text-align: center;">
-    <img src="https://github.com/ZakeerS/ATS/assets/135118498/3e696fa9-1307-4914-88e2-4c4c96f29713" alt="Image">
-</div>
+![image_processing20191213-6403-1j99nlm](https://github.com/ZakeerS/ATS/assets/135118498/187fe804-b210-4ed1-b46a-bf5f0e81c7ee)
+
 
 
 
