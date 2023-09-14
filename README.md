@@ -11,7 +11,7 @@
 
 
 # 💫 About Me:
-🔭 I'm currently working as an Intern at EXCELR.<br><br>🌱 I'm passionate about learning, particularly in the fields of Machine Learning and Deep Learning.<br><br>👯 I'm actively seeking opportunities to collaborate on projects related to Data Science, Machine Learning, and Artificial Intelligence.<br><br>💬 Feel free to ask me anything about Deep Learning, Machine Learning, and Artificial Intelligence. I'm always excited to share knowledge and discuss these topics.<br><br>🌱 I'm currently honing my skills in Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, SAS, Artificial Intelligence, and Deep Learning.<br><br>📫 You can reach me via email at zakeer1410@gmail.com.
+🔭 I'm currently working as an Freelancer at Scale.ai.<br><br>🌱 I'm passionate about learning, particularly in the fields of Machine Learning and Deep Learning.<br><br>👯 I'm actively seeking opportunities to collaborate on projects related to Data Science, Machine Learning, and Artificial Intelligence.<br><br>💬 Feel free to ask me anything about Deep Learning, Machine Learning, and Artificial Intelligence. I'm always excited to share knowledge and discuss these topics.<br><br>🌱 I'm currently honing my skills in Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, SAS, Artificial Intelligence, and Deep Learning.<br><br>📫 You can reach me via email at zakeer1410@gmail.com.
 
 
 ## 🌐 Socials:
